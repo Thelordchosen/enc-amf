@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\amf-test\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\amf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\amf-capabilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\amf-encoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\amf-encoder-h264.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\amf-encoder-h265.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\api-base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\api-d3d9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\api-d3d11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\source\utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\amf.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\amf-capabilities.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\amf-encoder.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\amf-encoder-h264.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\amf-encoder-h265.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\api-base.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\api-d3d9.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\api-d3d11.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\include\utility.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cino\Documents\softwares\OBS\obs\plugins\enc-amf\amf-test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2D5E8DA0-029B-3C38-A7FB-FE59CF84387F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7218578D-F4C7-3D2A-AC2F-8658B10EE8AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

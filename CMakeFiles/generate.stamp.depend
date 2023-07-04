@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/cino/Documents/softwares/OBS/obs/plugins/enc-amf/CMakeLists.txt
+C:/Users/cino/Documents/softwares/OBS/obs/plugins/enc-amf/ci/installer.in.iss
+C:/Users/cino/Documents/softwares/OBS/obs/plugins/enc-amf/cmake/legacy.cmake
+C:/Users/cino/Documents/softwares/OBS/obs/plugins/enc-amf/cmake/util.cmake
+C:/Users/cino/Documents/softwares/OBS/obs/plugins/enc-amf/cmake/version.rc.in
+C:/Users/cino/Documents/softwares/OBS/obs/plugins/enc-amf/include/version.hpp.in
